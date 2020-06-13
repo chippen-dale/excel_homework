@@ -1,3 +1,2 @@
 # excel_homework
-This is a test repository for class
-I am writing in my readme
+This is a repository for my Excel Homework
